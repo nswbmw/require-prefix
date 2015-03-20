@@ -1,0 +1,27 @@
+{
+  "name": "require-prefix",
+  "description": "Require file relative to `process.cwd()` or options `root`",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/test.js"
+  },
+  "keywords": [
+    "require",
+    "cwd"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "author": {
+    "name": "nswbmw",
+    "email": "nswbmw1992@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/require-prefix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nswbmw/require-prefix/issues"
+  }
+}
